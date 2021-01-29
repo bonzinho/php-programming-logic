@@ -1,6 +1,6 @@
 # php-programming-logic
 
-Foobar is a Python library for dealing with word pluralization.
+https://log.pt/en/exercises/php-programming-logic/
 
 ## Installation
 
